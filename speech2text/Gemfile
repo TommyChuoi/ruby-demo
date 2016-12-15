@@ -1,0 +1,5 @@
+source :rubygems
+gem 'speech2text'
+gem 'uuid'
+gem 'curb'
+gem 'json'
